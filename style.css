@@ -1,0 +1,34 @@
+h1
+{
+	color: darkred ; 
+}
+
+body
+{
+   background-color: greenyellow;
+}
+
+#carte
+{
+ 
+ width: 800px;
+ margin:0 auto;
+ background-color: white;
+ text-align: center;
+ align-content: center;
+}
+h2{
+   color: red;
+}
+
+h3{
+   color: red;
+}
+
+ul li{
+   list-style-type: none;
+}
+
+p{
+   background-size: auto;
+}
